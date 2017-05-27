@@ -1,5 +1,4 @@
 ﻿using ICities;
-using UnityEngine;
 
 namespace BulldozerElevationControl
 {
@@ -9,6 +8,6 @@ namespace BulldozerElevationControl
 
         public string Name => "Bulldozer Elevation Control";
 
-        public string Description => "Provides hotkeys for toggling between ground and underground modes of bulldozer";
+        public string Description => "Provides alternative hotkeys for toggling between ground and underground modes of bulldozer (PgUp/PgDown)";
     }
 }
